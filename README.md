@@ -21,14 +21,16 @@
 
 ### 🔨 Языки и инструменты в моем стеке:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://docs.aiogram.dev/" target="_blank"> <img src="./assets/telegram.svg" align="left" alt="Aiogram" height='42px'/> </a>
 <a href="https://kivy.org/" target="_blank"> <img src="./assets/kivy.svg" align="left" alt="kivy" height='42px'/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="./assets/vscode.svg" align="left" alt="vscode" height='42px'/> </a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="./assets/flask.svg" align="left" alt="flask" height='42px'/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="./assets/django.svg" align="left" alt="django" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<a href="https://www.canva.com/" target="_blank"> <img src="./assets/canva.svg" alt="figma" height='42px'/> </a>
+<a href="https://www.adobe.com/ru/products/photoshop.html" target="_blank"> <img src="./assets/photoshop.svg" alt="figma" height='42px'/> </a>
 
 
 ### 🌱 Сейчас работаю над:
