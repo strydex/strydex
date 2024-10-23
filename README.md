@@ -1,14 +1,14 @@
-# Хола, Чумба! 🚀
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark-theme-image.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light-theme-image.png">
-  <img alt="Тёмная и светлая темы" src="./assets/default-image.png">
-</picture>
+## Хола Чумба 👋, Я Эмир!
 
 ### 🧑‍💻 Back-End Developer | Blockchain Enthusiast | AI Explorer
 
-Привет! Я Эмир, и я создаю **сайты, веб-приложения, блокчейн решения и боты** с применением современных технологий и нестандартного подхода к решению задач. Мой фокус — это эффективность, автоматизация и масштабируемость.
+Привет! Я Эмир, и я создаю **сайты 🌐, веб-приложения 📱, блокчейн решения 🛠️ и боты 🤖** с применением современных технологий и нестандартного подхода к решению задач. Мне нравится делать интересные проекты и совмещать различные подходы в разработке.
+<br/>
+<br/>
+
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
 
 ### 💡 Стек технологий:
 - **Blockchain:** Solidity для разработки смарт-контрактов, децентрализованных приложений (dApps) и Web3 интеграций.
@@ -16,6 +16,24 @@
 - **Frontend:** HTML, CSS, базовые знания JS, создание адаптивных интерфейсов и интерактивных компонентов.
 - **DevOps:** Docker, автоматизация CI/CD процессов, настройка окружений для безопасного деплоя приложений, написание скриптов под Bash\Zsh.
 - **AI & Data:** Python для обработки данных и создания автоматизированных решений, а так же различных ботов для Telegram\Discord.
+
+  
+### 🔨 Языки и инструменты в моем стеке:
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+
+<br>
 
 ### 🌱 Сейчас работаю над:
 - Разработкой платформы для психологических оценок студентов на Django.
@@ -25,20 +43,7 @@
 ### 🚀 Мой подход:
 Каждый проект — это уникальная возможность привнести что-то новое. Я использую креативный взгляд вместе со структурностью, чтобы находить оригинальные решения сложных задач и пишу код, который не просто работает, а удивляет! (в хорошем смысле)
 
+- 📫 &nbsp; Не бойтесь написать мне в [Telegram](https://www.t.me/strydex/) , я не кусаюсь (ну только если немного)
 ---
 > Едят ли кошки мошек? Едят ли мошки кошек?
-
-<!--
-**strydex/strydex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Эмир
