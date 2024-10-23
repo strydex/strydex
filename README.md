@@ -1,9 +1,11 @@
-# Добро пожаловать, Чумба! 🚀
+# Хола, Чумба! 🚀
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark-theme-image.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light-theme-image.png">
+  <img alt="Тёмная и светлая темы" src="./assets/default-image.png">
 </picture>
+
 ### 🧑‍💻 Back-End Developer | Blockchain Enthusiast | AI Explorer
 
 Привет! Я Эмир, и я создаю **сайты, веб-приложения, блокчейн решения и боты** с применением современных технологий и нестандартного подхода к решению задач. Мой фокус — это эффективность, автоматизация и масштабируемость.
