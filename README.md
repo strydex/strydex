@@ -17,16 +17,15 @@
 - **DevOps:** Docker, автоматизация CI/CD процессов, настройка окружений для безопасного деплоя приложений, написание скриптов под Bash\Zsh.
 - **AI & Data:** Python для обработки данных и создания автоматизированных решений, а так же различных ботов для Telegram\Discord.
 
-  
+<br/>
 ### 🔨 Языки и инструменты в моем стеке:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-
+<a href="[https://git-scm.com/](https://kivy.org/)" target="_blank"> <img src="./assets/kivy.svg" align="left" alt="kivy" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-<br>
 
 ### 🌱 Сейчас работаю над:
 - Разработкой платформы для психологических оценок студентов на Django.
