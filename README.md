@@ -56,5 +56,7 @@
 
 📫 &nbsp; Не бойтесь написать мне в [Telegram](https://www.t.me/strydex/) , я не кусаюсь (ну только если немного)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=strydex&theme=merko) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=strydex&theme=merko&utcOffset=8)
+
 ---
 > #### Едят ли кошки мошек? Едят ли мошки кошек?
