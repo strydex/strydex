@@ -29,7 +29,7 @@
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="./assets/django.svg" align="left" alt="django" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.huggingface.co/" target="_blank"> <img src="./assets/huggingface.svg" alt="huggingface" height='42px'/> </a>
-</br>
+
 <a href="https://www.docker.com/" target="_blank"> <img src="./assets/docker.svg" alt="docker" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
