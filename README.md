@@ -47,7 +47,7 @@
 
 ### 🌱 Сейчас работаю над:
 - Созданием автоматизаций для бизнеса Low-Code решения.
-- Созданием IT-стартапа [Aetheria ML](https://aetheriaml.vercel.app).
+- Запуском IT-стартапа [Aetheria ML](https://aetheriaml.vercel.app).
 - Оркестрацией AI-агетов в единую безопасную сеть через ACP (Docker | OpenClaw).
 - Развитием своей веб-лаборатории [Viper Labs](https://viperlabs.ru/).
 
